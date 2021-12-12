@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selfie Drone System</string>
+    <string name="action_settings">Settings</string>   
+    <string name="disconnected">Disconnected</string>
+    <string name="product_information">Product Information</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="sdk_version">DJI SDK Version: %1$s</string>
+
+
+
+
+
+    <string name="move_gimbal_in_speed_stop">Stop</string>
+    <string name="gimbal_listview_push_info">Push Info</string>
+    <string name="success">Success</string>
+    <string name="shoot_single_photo">Shoot Single Photo</string>
+
+
+</resources>

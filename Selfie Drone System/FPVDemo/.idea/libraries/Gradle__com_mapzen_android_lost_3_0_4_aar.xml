@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapzen.android:lost:3.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21f2c233953dce29f5d70b13ebd494f3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21f2c233953dce29f5d70b13ebd494f3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21f2c233953dce29f5d70b13ebd494f3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa4aee99ab81ece75fc6bceef5ad5a0a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa4aee99ab81ece75fc6bceef5ad5a0a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa4aee99ab81ece75fc6bceef5ad5a0a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/3.0.4/ee1bca54220becc41c30e8ba362f289b9f3424ca/lost-3.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/3.0.4/64183480c0a48f9aed168bebff4ccc7eda15d5f/lost-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
