@@ -383,7 +383,7 @@ public class MainActivityL extends Activity implements SurfaceTextureListener,On
                 rotatePitch((act_pitch - movepitch)/1.2);
                 straight(distancex1,distancex2,distancey1,distancey2,distancez1,distancez2);
 
-// //Show Rotate
+// //Show Rotate, How Much
 //
 //                TextView theTextView7 = (TextView) findViewById(R.id.textView7);
 //                TextView theTextView8 = (TextView) findViewById(R.id.textView8);
@@ -395,7 +395,7 @@ public class MainActivityL extends Activity implements SurfaceTextureListener,On
 //                theTextView8.setText(", " + String.format("%.2f",movepitch));
 //                theTextView8.setTextColor(Color.RED);
 //
-////Show Speed
+////Show Speed 
 //
 //                TextView theTextView24 = (TextView) findViewById(R.id.textView24);
 //                TextView theTextView25 = (TextView) findViewById(R.id.textView25);
